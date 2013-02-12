@@ -1,4 +1,4 @@
 Welcome to the project.
 
-v1.0.1
-HotFix Branch
+v1.0.2
+Master Branch
